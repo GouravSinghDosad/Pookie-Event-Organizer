@@ -1,3 +1,3 @@
-#POOKIE-responsive-Event Organizer Website
+# POOKIE-responsive-Event Organizer Website
 
 technologies used: HTML, CSS, JavaScript
